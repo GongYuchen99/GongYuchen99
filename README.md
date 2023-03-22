@@ -18,7 +18,7 @@
 
 <div align="center">
     <a href="https://github.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Github" width="40" height="40" />
+        <img src="https://github.com/GongYuchen99/GongYuchen99/blob/e0520d684a2196510f6da757c19742c55050fd9e/Img/github-original.svg" alt="Github" width="40" height="40" />
     </a>
     <a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer">
         <img src="https://github.com/GongYuchen99/GongYuchen99/blob/019e677422e9e51e9a22dbbedf3964d7c9256e1c/Img/clion-original.svg" alt="clion" width="40" height="40" />
