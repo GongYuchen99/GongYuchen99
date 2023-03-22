@@ -18,10 +18,10 @@
 
 <div align="center">
     <a href="https://github.com/" target="_blank" rel="noreferrer">
-        <img alt="github" width="50px" src="https://github.com/GongYuchen99/GongYuchen99/blob/e0520d684a2196510f6da757c19742c55050fd9e/Img/github-original.svg" />
+        <img alt="github" width="50px" src="https://github.com/GongYuchen99/GongYuchen99/blob/ad01603230ccb1732920e8b119ee11950b475e31/Img/github.svg" />
     </a>
     <a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer">
-        <img alt="clion" width="50px" src="https://cdn.worldvectorlogo.com/logos/clion-1.svg" />
+        <img alt="clion" width="50px" src="https://github.com/GongYuchen99/GongYuchen99/blob/ad01603230ccb1732920e8b119ee11950b475e31/Img/clion.svg" />
     </a>   
 </div>
 
