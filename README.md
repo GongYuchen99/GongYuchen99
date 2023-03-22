@@ -18,12 +18,11 @@
 
 <div align="center">
     <a href="https://github.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/GongYuchen99/GongYuchen99/blob/e0520d684a2196510f6da757c19742c55050fd9e/Img/github-original.svg" alt="Github" width="40" height="40" />
+        <img alt="github" width="50px" src="https://github.com/GongYuchen99/GongYuchen99/blob/e0520d684a2196510f6da757c19742c55050fd9e/Img/github-original.svg" />
     </a>
     <a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/GongYuchen99/GongYuchen99/blob/019e677422e9e51e9a22dbbedf3964d7c9256e1c/Img/clion-original.svg" alt="clion" width="40" height="40" />
-    </a>
-    
+        <img alt="clion" width="50px" src="https://cdn.worldvectorlogo.com/logos/clion-1.svg" />
+    </a>   
 </div>
 
 ### 📈 Github Statistics
