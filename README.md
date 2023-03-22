@@ -1,6 +1,8 @@
 <h3 align="center">Hi👋, I'm GongYuchen</h3>
 
 <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=GongYuchen99&color=blue" />
+    </a>
     <a title="My Blog Site" target="_blank" href="https://GongYuchen99.github.io/">
         <img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%20(blog)-GongYuchen99.github.io-orange" />
     </a>
